@@ -10,6 +10,8 @@ I'm a passionate developer with interests in full-stack web development, JavaScr
 - **Frontend:** React, Next.js, Tailwind CSS, HTML, CSS
 - **Tools & Platforms:** Git, GitHub, Vercel, Docker, VS Code
 
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,postman,git,bootstrap)](https://skillicons.dev)
+
 ## 📫 Let's Connect
 
 - LinkedIn: [https://www.linkedin.com/in/amir-ramezanimoghadam-23a575298]
