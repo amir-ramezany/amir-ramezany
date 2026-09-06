@@ -43,13 +43,14 @@ My main focus is the **JavaScript/TypeScript ecosystem**, especially React and N
 
 ### 🗄️ Databases & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,git,github,docker,vscode,vercel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,git,github,docker,redis,vscode,vercel)](https://skillicons.dev)
 
 
 - PostgreSQL
 - MySQL
 - Git & GitHub
 - Docker
+- Redis
 - VS Code
 - Vercel
 
