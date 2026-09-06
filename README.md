@@ -63,11 +63,8 @@ My main focus is the **JavaScript/TypeScript ecosystem**, especially React and N
 - 🟢 Go (Golang)
 - ⚙️ Advanced Backend Development
 - 🏗️ Scalable Backend Architecture
-- 🔐 Authentication & Authorization
-- 🌐 RESTful API Design
-- 🚀 Performance & Clean Code
+- 🚀 Performance 
 - 📦 Open Source Projects
-
 ---
 
 ## 📌 What I Build
