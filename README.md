@@ -14,9 +14,8 @@ My main focus is the **JavaScript/TypeScript ecosystem**, especially React and N
 
 ### 💻 Languages
 
-\<p>
-&#x20; \<img src="[https://skillicons.dev/icons?i=js,ts,go,html,css](https://skillicons.dev/icons?i=js,ts,go,html,css)" />
-\</p>
+[![My Skills](https://skillicons.dev/icons?i=js,ts,go,html,css)](https://skillicons.dev)
+
 
 ### 🎨 Frontend
 
