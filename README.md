@@ -14,14 +14,12 @@ My main focus is the **JavaScript/TypeScript ecosystem**, especially React and N
 
 ### 💻 Languages
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,go,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,go)](https://skillicons.dev)
 
 
 ### 🎨 Frontend
 
-\<p>
-&#x20; \<img src="[https://skillicons.dev/icons?i=react,nextjs,tailwind](https://skillicons.dev/icons?i=react,nextjs,tailwind)" />
-\</p>
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css)](https://skillicons.dev)
 
 - React
 - Next.js
@@ -32,9 +30,8 @@ My main focus is the **JavaScript/TypeScript ecosystem**, especially React and N
 
 ### ⚙️ Backend
 
-\<p>
-&#x20; \<img src="[https://skillicons.dev/icons?i=nodejs,express,nestjs](https://skillicons.dev/icons?i=nodejs,express,nestjs)" />
-\</p>
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,nestjs)](https://skillicons.dev)
+
 
 - Node.js
 - Express.js
@@ -46,7 +43,8 @@ My main focus is the **JavaScript/TypeScript ecosystem**, especially React and N
 
 ### 🗄️ Databases & Tools
 
-\<p>   \<img src="[https://skillicons.dev/icons?i=postgres,mysql,git,github,docker,vscode,vercel](https://skillicons.dev/icons?i=postgres,mysql,git,github,docker,vscode,vercel)" /> \</p>
+[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,git,github,docker,vscode,vercel)](https://skillicons.dev)
+
 
 - PostgreSQL
 - MySQL
