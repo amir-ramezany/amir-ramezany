@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Amir Ramezani
 
-### 🚀 Full-Stack Developer | JavaScript / TypeScript | Node.js | Go
+### 🚀 Full-Stack Developer | JavaScript / TypeScript | Node.js 
 
 Welcome to my GitHub profile!
 
 I'm a **Full-Stack Developer** passionate about building modern, scalable, and maintainable web applications. I enjoy working across both **frontend and backend**, exploring new technologies, and continuously improving my development skills.
 
-My main focus is the **JavaScript/TypeScript ecosystem**, especially React and Next.js on the frontend and Node.js on the backend. I'm also interested in **Go (Golang)** and exploring its ecosystem for backend development and high-performance applications.
+My main focus is the **JavaScript/TypeScript ecosystem**, especially React and Next.js on the frontend and Node.js on the backend. 
 
 ---
 
@@ -14,7 +14,7 @@ My main focus is the **JavaScript/TypeScript ecosystem**, especially React and N
 
 ### 💻 Languages
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,go)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev)
 
 
 ### 🎨 Frontend
@@ -58,7 +58,6 @@ My main focus is the **JavaScript/TypeScript ecosystem**, especially React and N
 
 ## 🌱 Currently Learning & Exploring
 
-- 🟢 Go (Golang)
 - ⚙️ Advanced Backend Development
 - 🏗️ Scalable Backend Architecture
 - 🚀 Performance 
@@ -77,7 +76,7 @@ Some of the technologies I work with include:
 
 **Database:** PostgreSQL
 
-**Languages:** JavaScript, TypeScript, Go
+**Languages:** JavaScript, TypeScript
 
 **Tools:** Git, GitHub, Docker, Vercel
 
